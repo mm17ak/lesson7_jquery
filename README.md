@@ -4,20 +4,15 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+07/26/2018
 ### Student Name:  
-(First and Last Name)
+Mikael Mikaelian
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In this project we modified file applications in order to display content (receipe) when clicking on the header. 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mm17ak.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+In this lesson I learned how modify index.html files in order to display hidden content. I did this by showing the recipe ingredients when clicking on the headers of the webpage. In addition to this, we also modified the color in which the content is being displayed in. 
 
